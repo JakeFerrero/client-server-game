@@ -14,8 +14,8 @@ On the Client:
 ```
 java Client <host>
 ```
-Where <host> is either localhost (if the server machine is the same as the client machine) or a valid hostname.
-Once connected, you will be prompted for a username. Enter one of the usernames tied to the valid key files (for example, type "elizabeth" whose key file is elizabeth.txt to play as 'e', Elizabeth).
+Where \<host\> is either localhost (if the server machine is the same as the client machine) or a valid hostname.
+Once connected, you will be prompted for a username. Enter one of the usernames tied to the valid key files (for example, type "elizabeth" whose key file is elizabeth.txt to play as 'e').
 
 Valid Commands:
 * "up" - Move player up.
